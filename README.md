@@ -1,3 +1,3 @@
 # simulador-de-combate-pokemon-rojo-mini
  
-Simulador de comabte de pokémon rojo reducido.
+Simulador de combate de pokémon rojo reducido.
